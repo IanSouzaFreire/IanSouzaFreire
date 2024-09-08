@@ -1,5 +1,13 @@
+<head>
+</head>
+
 ## Information
 I mainly learn from reading forums and testing small code snippets I wrote.
+
+## Projects
+In a list of most to least impressive, only including the ones I find relevant:
+1. CQuery, a implementation of a JQuery-like web use for C++
+2. C++ study, my own study notes for the C++ language, in the form of small code-snippets
 
 ## Specializing in low-level programming languages
 Languages I use for low-level:
