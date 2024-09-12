@@ -1,5 +1,5 @@
 <h1 align="center">Hello world!</h1>
-<p align="center">My name is (**Ian Souza Freire**)[_Github] and I'm a junior developer aiming to be a software enginner or tester.</p>
+<p align="center">My name is <a href="https://github.com/IanSouzaFreire">Ian Souza Freire</a> and I'm a junior developer aiming to be a software enginner or tester.</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/ian-freire-897406284/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://app.daily.dev/iansouzafreire"><img src="https://img.shields.io/badge/Daily.Dev-0A0A0A?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="Daily.Dev"></a>
@@ -8,15 +8,15 @@
 </p>
 
 <h2 align="center">About me</h2>
-- My portfolio page [*here*](_Portfolio)
+- My portfolio page <a href="https://iansouzafreire.github.io/Portfolio/">here</a>
 - I mainly learn from reading forums and testing small code snippets I wrote. <br />
 - Programming is my main focus, with my hobby being writing. <br />
 - One book of the fantasy genre published on Uiclap.
 
 <h2 align="center">My projects</h2>
 In a list of most to least impressive, only including the ones I find relevant: <br />
-1. [**CQuery**](https://github.com/IanSouzaFreire/CQuery), a implementation of a JQuery-like web use for C++ <br />
-2. [**C++ study**](https://github.com/IanSouzaFreire/Cpp-study), my own study notes for the C++ language, in the form of small code-snippets
+1. <a href="https://github.com/IanSouzaFreire/CQuery">CQuery</a>, a implementation of a JQuery-like web use for C++ <br />
+2. <a href="https://github.com/IanSouzaFreire/Cpp-study">C++ study</a>, my own study notes for the C++ language, in the form of small code-snippets
 
 <h2 align="center">Tools and tech</h2>
 Tecnologies I use when programming Front-end:
@@ -61,6 +61,3 @@ Tecnologies I use for programming:
 ![IanSouzaFreire](https://github-readme-stats.vercel.app/api/top-langs?username=IanSouzaFreire&show_icons=true&theme=tokyonight&layout=compact)
 
 <a href="https://app.daily.dev/iansouzafreire"><img src="https://api.daily.dev/devcards/v2/rdiN8SuLhS5H4fsHiT5tP.png?type=default&r=jcw" width="356" alt="Ian Souza Freire's Dev Card"/></a>
-
-[_Github]:    https://github.com/IanSouzaFreire
-[_Portfolio]: https://iansouzafreire.github.io/Portfolio/
