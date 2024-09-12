@@ -8,7 +8,7 @@
 </p>
 
 <h2 align="center">About me</h2>
-- My portfolio page <a href="https://iansouzafreire.github.io/Portfolio/">here</a>
+- My portfolio page <a href="https://iansouzafreire.github.io/Portfolio/">here</a><br>
 - I mainly learn from reading forums and testing small code snippets I wrote. <br />
 - Programming is my main focus, with my hobby being writing. <br />
 - One book of the fantasy genre published on Uiclap.
