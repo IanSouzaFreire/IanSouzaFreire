@@ -29,6 +29,7 @@ Tecnologies I use when programming Front-end:
   <a href="https://jquery.com/"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
   <a href="https://www.libsdl.org/"><img src="https://img.shields.io/badge/SDL-005C84?style=for-the-badge&logo=sdl&logoColor=white" alt="SDL"></a>
+  <a href="https://www.raylib.com/"><img src="https://img.shields.io/badge/raylib-7791B5?style=for-the-badge&logo=raylib&logoColor=white" alt="raylib"></a>
 </p>
 
 Tecnologies I use when programming Back-end:
