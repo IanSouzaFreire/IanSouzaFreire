@@ -1,10 +1,9 @@
 <h1 align="center">Hello world!</h1>
 <p align="center">My name is <a href="https://github.com/IanSouzaFreire">Ian Souza Freire</a> and I'm a junior developer aiming to be a software enginner or tester.</p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ian-freire-897406284/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/ian-souza-freire-897406284/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://app.daily.dev/iansouzafreire"><img src="https://img.shields.io/badge/Daily.Dev-0A0A0A?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="Daily.Dev"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-  <a href="https://br.fiverr.com/r0bertinh0?up_rollout=true"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"></a>
+  <a href="https://br.fiverr.com/users/r0bertinh0/"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"></a>
 </p>
 
 <h2 align="center">About me</h2>
