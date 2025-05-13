@@ -14,8 +14,9 @@
 
 <h2 align="center">My projects</h2>
 In a list of most to least impressive, only including the ones I find relevant: <br />
-1. <a href="https://github.com/IanSouzaFreire/CQuery">CQuery</a>, a implementation of a JQuery-like web use for C++ <br />
+1. <a href="https://github.com/IanSouzaFreire/clarbe">clarbe</a>, an implementation of a workspace manager for C and C++.
 2. <a href="https://github.com/IanSouzaFreire/Cpp-study">C++ study</a>, my own study notes for the C++ language, in the form of small code-snippets
+3. <a href="https://github.com/IanSouzaFreire/CQuery">CQuery</a>, a implementation of a JQuery-like web use for C++ <br />
 
 <h2 align="center">Tools and tech</h2>
 Tecnologies I use when programming Front-end:
