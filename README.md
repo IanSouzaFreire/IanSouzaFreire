@@ -52,11 +52,6 @@ Tecnologies I use for programming:
   <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-<h4 align="center"> 
-  Visitors: <br>
-  <img src="https://profile-counter.glitch.me/IanSouzaFreire/count.svg" />
-</h4>
-
 ![IanSouzaFreire](https://github-readme-stats.vercel.app/api?username=IanSouzaFreire&show_icons=true&theme=tokyonight&hide=["issues"])
 
 ![IanSouzaFreire](https://github-readme-stats.vercel.app/api/top-langs?username=IanSouzaFreire&show_icons=true&theme=tokyonight&layout=compact)
